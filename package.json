@@ -1,0 +1,23 @@
+{
+  "name": "leon-nodejs-learn",
+  "version": "1.0.0",
+  "description": "for learning",
+  "main": "main.js",
+  "scripts": {
+    "test": "nodemon src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liwangpu/leon-nodejs-learn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liwangpu/leon-nodejs-learn/issues"
+  },
+  "homepage": "https://github.com/liwangpu/leon-nodejs-learn#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
